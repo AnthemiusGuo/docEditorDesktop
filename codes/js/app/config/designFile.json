@@ -1,0 +1,10 @@
+{
+    "files":{
+        "item":{
+            "fileName":"./excel/item.xlsx",
+            "skipLine":1,
+            "titleLine":1,
+            "dataModel":"record_item"
+        }
+    }
+}
